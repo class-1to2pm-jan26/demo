@@ -1,1 +1,3 @@
 cloud application v1
+Feature: login module
+Feature: profile module
