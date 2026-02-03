@@ -1,9 +1,3 @@
- feature/amar
-cloud application v1
-Feature: login module
-Feature: profile module
-added this line online
-Authentication feature implementated
-new line added
-Merge confilict resolved 
-changes made by sanup main
+
+feature hello
+
